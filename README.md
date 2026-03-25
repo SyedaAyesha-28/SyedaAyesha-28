@@ -54,8 +54,8 @@
 |---|---|---|---|
 | 🔍 [Competitor Analysis Scraper](https://github.com/syedaayesha-28/competitor-analysis-scraper) | Scrapes product/price data, generates insights, exports Excel reports | Python, BeautifulSoup, Streamlit | [Live Demo](https://competitor-analysis-ayesha.streamlit.app) |
 | 🤖 [AI Automation Agent](https://github.com/syedaayesha-28/ai-automation-agent) | Goal-driven agent with tool-use: calculator, summariser, JSON formatter | Python | — |
-| 🔐 [UPI Fraud Detection](https://github.com/syedaayesha-28/upi-fraud-detection) | CNN-based ML model detecting UPI fraud with ~85% accuracy | Python, Keras, Scikit-learn | — |
-| 📚 [Bookstore REST API](https://github.com/syedaayesha-28/bookstore-api) | Secure REST API with JWT auth managing 100+ books & orders | Java, Spring Boot, MySQL | — |
+| 🔐 [UPI Fraud Detection](https://github.com/SyedaAyesha-28/UPI-Fraud-Detection-using-ML) | CNN-based ML model detecting UPI fraud with ~85% accuracy | Python, Keras, Scikit-learn | — |
+| 📚 [Bookstore REST API](https://github.com/SyedaAyesha-28/bookstore-management) | Secure REST API with JWT auth managing 100+ books & orders | Java, Spring Boot, MySQL | — |
 
 ---
 
