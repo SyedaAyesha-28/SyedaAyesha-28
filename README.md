@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Syeda Ayesha 👋</h1>
 
 <p align="center">
-  <b>AI & Full Stack Developer · Gen AI Intern @ CampusPe · Final Year CSE · Bangalore</b>
+  <b>AI & Full Stack Developer · Gen AI Intern @ CampusPe · Final Year CSE </b>
 </p>
 
 <p align="center">
