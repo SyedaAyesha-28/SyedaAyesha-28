@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Syeda Ayesha 👋</h1>
 
 <p align="center">
-  <b>AI & Full Stack Developer · Gen AI Intern @ CampusPe · Final Year CSE </b>
+  <b>AI & ML Developer · Ex- Gen AI Intern @ CampusPe  </b>
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building **AI agents & automation workflows** at CampusPe (Bangalore)
+- 🔭 Built **AI agents & automation workflows** at CampusPe (Bangalore)
 - ☁️ Gaining hands-on AWS experience at iStudio — EC2, S3, IAM
 - 🤖 Passionate about **Generative AI, LLMs, and intelligent automation**
-- 🎓 Final year **B.E. CSE** at Navodaya Institute of Technology, Raichur (CGPA: 8.1)
+- 🎓 Graduate **B.E. CSE** at Navodaya Institute of Technology, Raichur (CGPA: 8.1)
 - 🌱 Learning: **LangChain · React Native · PyTorch · Cloud Deployment**
 
 ---
